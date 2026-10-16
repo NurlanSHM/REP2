@@ -8,7 +8,7 @@ fundamentals and a few mini-projects.
 - **Loops & logic** — `for loops-revision.py`, `while loop-revision.py`, `logical operators.py`, `nested-loop.py`
 - **Data structures** — `2D lists.py`, `rev(LS,Tup,set).py`
 - **Mini-programs** — `Quiz game.py`, `guessing game.py`, `shopping cart program.py`, `Concession stand program.py`
-- **File Organizer** — a desktop app that previews file moves before organizing; see [file-organizer/README.md](file-organizer/README.md)
+- **File Organizer** — [`file-organizer/`](file-organizer/README.md) is a Python/Tkinter desktop app. It previews files directly inside a chosen folder, then sorts them into Images, Documents, Audio, Video, Archives, and Other folders. Hidden files and subfolders are left alone. Run it with `cd file-organizer && python3 file_organizer.py`.
 - **Utilities** — `calc2.py`, `countdown timer.py`, `temp conv.py`, `weight converter.py`, `compound interest.py`
 
 ## Educational note
