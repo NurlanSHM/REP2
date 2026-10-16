@@ -84,7 +84,7 @@ class App(ttk.Frame):
             self.plan = core.build_plan(self.folder)
         except OSError as err:
             self.plan = []
-            messagebox.showerror("Cannot read folder", str(err))
+            messagebox.showerror("Cannot preview folder", str(err))
         self._show_preview()
 
     def cancel(self):
